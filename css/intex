@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hai</tile>
+        <style>
+             #para{
+           color: brown;
+             }
+             .one{
+            
+            color:red;
+        }
+        </style>
+        
+        <body>
+<p id="para">hgguuih</p>
+
+<div class="one">
+    <h1>jhfjshfk</h1>
+    </div>
+    
+        </body>
+    </head>
+</html>
